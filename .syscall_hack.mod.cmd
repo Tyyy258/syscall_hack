@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/syscall_hack/syscall_hack.mod := { echo  /home/ubuntu/op-tee/yzc/modules/syscall_hack/syscall_hack.o;  echo; } > /home/ubuntu/op-tee/yzc/modules/syscall_hack/syscall_hack.mod

@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/syscall_hack/syscall_hack.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/ubuntu/op-tee/yzc/modules/syscall_hack/syscall_hack.ko /home/ubuntu/op-tee/yzc/modules/syscall_hack/syscall_hack.o /home/ubuntu/op-tee/yzc/modules/syscall_hack/syscall_hack.mod.o;  true
